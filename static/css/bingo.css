@@ -7,14 +7,13 @@
   /* overflow-x: hidden; */
 }
 body {
-  background-color: #121213;
+  background-color: #1d1d21;
   font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
 
 }
 a{
   text-decoration: none !important;
-  
 }
 .main {
   display: -ms-grid;

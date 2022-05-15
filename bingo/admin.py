@@ -2,8 +2,6 @@ from django.contrib import admin
 from.models import BingoRoom,TrackPlayers
 
 
-
-
 class TrackPlayersAdmin(admin.TabularInline):
     model = TrackPlayers
 
